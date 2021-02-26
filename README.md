@@ -8,11 +8,7 @@ This package is still in development.Now only it supports image cropping, image 
 
 # Install
 ```
-pip install augmentit --extra-index-url https://__token__:DEB26swtzZfvbxKyYn1E@gitlab.com/api/v4/projects/24617682/packages/pypi/simple
-```
-# Upgrade
-```
-pip install augmentit --extra-index-url https://__token__:DEB26swtzZfvbxKyYn1E@gitlab.com/api/v4/projects/24617682/packages/pypi/simple
+pip install augmentit
 ```
 
 # Documentation
