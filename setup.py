@@ -9,9 +9,9 @@ setuptools.setup(
     name="augmentit",
     version="1.0.2",
     author="Sandesh Hegde",
-    author_email="sandesh.hegde@camcom.com",
+    author_email="sandeshangiras@gmail.com",
     description="A small package to do some augmentation",
-    url="https://gitlab.com/sandesha/augmentit.git",
+    url="https://github.com/sandesha-hegde/augmentit.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
