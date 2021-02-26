@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: augmentit
+Version: 1.0.3
+Summary: package to do some basic image augmentation for polygons and boxes.
+Home-page: https://github.com/sandesha-hegde/augmentit.git
+Author: Sandesh Hegde
+Author-email: sandeshangiras@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6

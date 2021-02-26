@@ -7,10 +7,10 @@ with open('requirements.txt') as f:
 
 setuptools.setup(
     name="augmentit",
-    version="1.0.2",
+    description= "package to do some basic image augmentation for polygons and boxes.",
+    version="1.0.3",
     author="Sandesh Hegde",
     author_email="sandeshangiras@gmail.com",
-    description="A small package to do some augmentation",
     url="https://github.com/sandesha-hegde/augmentit.git",
     packages=setuptools.find_packages(),
     classifiers=[
@@ -22,3 +22,4 @@ setuptools.setup(
 )
 
 # python3 -m twine upload --repository gitlab dist/*
+# python -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
