@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: augmentit
+Version: 1.0.2
+Summary: A small package to do some augmentation
+Home-page: https://gitlab.com/sandesha/augmentit.git
+Author: Sandesh Hegde
+Author-email: sandesh.hegde@camcom.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6

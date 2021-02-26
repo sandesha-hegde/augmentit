@@ -1,0 +1,6 @@
+image: python:latest
+
+run:
+  script:
+    - pip install twine
+    - python setup.py lNE_USERNAME=gitlab-ci-token python -m twine upload --repository-url https://gitlab.com/api/v4/projects/24617682/packages/pypi dist/*

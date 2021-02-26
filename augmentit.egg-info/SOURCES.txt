@@ -1,0 +1,15 @@
+README.md
+setup.py
+augmentit/__init__.py
+augmentit.egg-info/PKG-INFO
+augmentit.egg-info/SOURCES.txt
+augmentit.egg-info/dependency_links.txt
+augmentit.egg-info/requires.txt
+augmentit.egg-info/top_level.txt
+augmentit/draw/__init__.py
+augmentit/draw/plot_box.py
+augmentit/formats/__init__.py
+augmentit/formats/yolo.py
+augmentit/segmentation/__init__.py
+augmentit/segmentation/crop_image.py
+augmentit/segmentation/resize_image.py
